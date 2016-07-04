@@ -1,1 +1,9 @@
+# Site settings
+title: Women On Rails Guide
+email: hello@womenonrails.com
+description:
+twitter_username: womenonrails
+github_username:  women-on-rails
+
+# Build settings
 markdown: kramdown
