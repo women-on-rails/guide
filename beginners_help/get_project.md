@@ -2,7 +2,7 @@
 
 ## Avant de commencer
 
-Nous  imaginons ici que votre projet s'appelle ````super_projet````. Pour récupérer votre projet, faudra remplacer ````super_projet```` par le véritable nom de votre projet.  
+Nous  imaginons ici que votre projet s'appelle ````super_projet````. Pour récupérer votre projet, il faudra remplacer ````super_projet```` par le véritable nom de votre projet.  
 
 ## Dans la console
 
