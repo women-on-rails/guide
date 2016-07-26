@@ -1,3 +1,9 @@
+---
+title: Récupérer un projet Women On Rails
+layout: default
+permalink: /get_project
+---
+
 # Récuperer un projet Women On Rails
 
 ## Avant de commencer
