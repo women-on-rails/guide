@@ -12,24 +12,36 @@ Nous  imaginons ici que votre projet s'appelle ````super_projet````. Pour récup
 
 ## Dans la console
 
-Ouvrez une console et entrez dans votre répertoire de travail (aidez vous des commandes ````cd```` (Changement de Dossier) et ````ls```` (LiSte des fichiers)).
+Ouvrez une console et entrez dans votre répertoire de travail.
+Pour cela, aidez-vous des commandes ````cd```` (Changement de Dossier) et ````ls```` (LiSte des fichiers).
+
+Exemples: ````cd super_projet```` et ```` ls super_projet ````
+
+Si vous etes sous Windows, utilisez ````dir```` au lieu de ````ls```` pour lister le contenu d'un dossier.
+
+Exemple: ```` dir super_projet ````
+
 Créez un nouveau dossier de travail (````mkdir```` : MaKe DIRectory):
+
 ``` Console
 mkdir super_projet
-````
+```
 
 Entrez dans ce dossier:
+
 ``` Console
 cd super_projet
-````
+```
 
 Initialisez GIT pour votre projet:
+
 ``` Console
 git init
-````
+```
 
-Vous allez maintenant lier votre répertoire ````super_projet```` situé sur votre ordinateur avec un répertoire distant super_projet situé sur votre compte github. Le lien sera appelé ````origin````.
+Vous allez maintenant lier votre répertoire ````super_projet```` situé sur votre ordinateur avec un répertoire distant ````super_projet```` situé sur votre compte github. Le lien sera appelé ````origin````.
 Pour cela, créez un nouveau répertoire appelé ````super_projet```` sur Github et copiez l'url de ce répertoire.
+
 Puis, faites la commande suivante, en remplaçant (votre compte) dans cette adresse par votre compte :
 
 ``` Console
@@ -39,14 +51,15 @@ git remote add origin git@github.com:(votre compte)/super_projet.git
 Cela vous permet de synchroniser votre compte github avec les modifications que vous ferez sur le projet ````super_projet```` sur votre ordinateur.
 
 À cette étape, si vous faites ````ls```` dans votre console, le dossier ````super_projet```` doit être vide.
-Et si vous faites ````ls -a```` le dossier ````super_projet```` ne contient que les fichiers de configuration de git, dans le dossier caché ````.git````.
+Et si vous faites ````ls -a````, le dossier ````super_projet```` ne contient que les fichiers de configuration de git, dans le dossier caché ````.git````.
 
 Maintenant, vous allez lier votre répertoire ````super_projet```` situé sur votre ordinateur avec le répertoire distant ````super_projet```` situé sur le compte des Women On Rails. Le lien sera appelé ````upstream````.
+
 Pour cela, faites la commande suivante :
 
 ``` Console
 git remote add upstream git@github.com:women-on-rails/super_projet.git
-````
+```
 
 Cela va vous permettre de récupérer facilement le code existant nécessaire pour la suite de l'exercice. 
 
