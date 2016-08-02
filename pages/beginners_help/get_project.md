@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+permalink: /get_project
+---
+
 # Récuperer un projet Women On Rails
 
 ## Avant de commencer

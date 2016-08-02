@@ -3,10 +3,14 @@ layout: default
 published: true
 ---
 
-# Hello Worriors !
+# Salut les Worriors !
 
-## Help for Tutorials
+## Aide pour les débutant(e)s
 
-* Guide to [get a WOR project]()
+### Tutoriels
 
-## Help for Mentors
+* [Récupérer en local un projet Women On Rails](/get_project)
+* [Enregistrer les modifications locales sur son répertoire distant](/push_project)
+
+## Aide pour les mentor(e)s
+

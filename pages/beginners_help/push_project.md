@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+permalink: /push_project
+---
+
 # Enregistrer ses modifications sur le dépôt distant
 
 ## Avant de commencer
