@@ -9,8 +9,8 @@ published: true
 
 ### Tutoriels
 
-* [Récupérer en local un projet Women On Rails](/get_project)
-* [Enregistrer les modifications locales sur son répertoire distant](/push_project)
+* [Récupérer en local un projet Women On Rails](/guide/get_project)
+* [Enregistrer les modifications locales sur son répertoire distant](/guide/push_project)
 
 ## Aide pour les mentor(e)s
 
