@@ -16,12 +16,12 @@ published: true
 
 ### Tutoriels
 
-* [Installation](/installation) de l'environnement de Développement
-* [Cycle 1](/cycle_1) : Introduction à la programmation Web avec Ruby On Rails
+* [Installation](/guide/installation) de l'environnement de Développement
+* [Cycle 1](/guide/cycle_1) : Introduction à la programmation Web avec Ruby On Rails
 
 ### Astuces
 * [Récupérer en local un projet Women On Rails](/guide/get_project)
-* [Enregistrer les modifications locales sur son répertoire distant](/push_project)
+* [Enregistrer les modifications locales sur son répertoire distant](/guide/push_project)
 * [Biliotheque](/tips)
 
 ## Mentor(e)s

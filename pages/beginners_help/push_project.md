@@ -62,3 +62,5 @@ Pour envoyer votre commit vers votre repertoire distant (sur Github), vous devez
 ```Console
 git push 
 ````
+
+Allez voir sur github, vos modifications apparaitront :)

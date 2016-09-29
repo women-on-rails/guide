@@ -4,7 +4,7 @@ published: true
 permalink: /get_project
 ---
 
-# Récuperer un projet Women On Rails
+# Récupérer un projet Women On Rails
 
 ## Avant de commencer
 
@@ -73,3 +73,7 @@ Cela remplit le dossier ````super_projet```` sur votre ordinateur avec tout ce q
 En faisant un ````ls````, vous pourrez voir la liste des fichiers copiés. 
 
 Vous voila prête pour l'exercice lié au projet Women On Rails !
+
+## Astuces
+
+* Ce qu'est un [fichier caché](https://fr.wikipedia.org/wiki/Fichier_et_r%C3%A9pertoire_cach%C3%A9)
