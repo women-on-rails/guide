@@ -28,4 +28,5 @@ published: true
 
 [//]: * Comment devenir mentor(e) Women On Rails (Meetup + Groupe Google)
 * [Astuces pour mentorer un groupe d’étude de programmation](http://coaching.rubymonstas.org/fr/)
+* [Projets à traduire](/guide/translations)
 
