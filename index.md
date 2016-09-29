@@ -22,7 +22,7 @@ published: true
 ### Astuces
 * [Récupérer en local un projet Women On Rails](/guide/get_project)
 * [Enregistrer les modifications locales sur son répertoire distant](/guide/push_project)
-* [Biliotheque](/tips)
+* [Bibliotheque](/guide/tips)
 
 ## Mentor(e)s
 
