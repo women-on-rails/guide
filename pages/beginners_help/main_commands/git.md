@@ -21,7 +21,3 @@ Voici les commandes principales que nous allons utiliser tout au long du projet,
 
 - Commencer avec GIT [ici](http://christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/) ou [ici](http://rogerdudler.github.io/git-guide/index.fr.html)
 - Aller plus loin avec les [répertoires distants](https://git-scm.com/book/fr/v1/Les-bases-de-Git-Travailler-avec-des-d%C3%A9p%C3%B4ts-distants)
-- Premiers pas en [CSS](http://css.mammouthland.net/premiers-pas-en-css.php)
-- Principales balises en [HTML](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/memento-des-balises-html ou http://www.vieytes.org/tbalises.html)
-- Guide complet sur le [HTML](http://www.lehtml.com/html/index.htm)
-- Les clés [SSH](http://sebsauvage.net/comprendre/ssl/)

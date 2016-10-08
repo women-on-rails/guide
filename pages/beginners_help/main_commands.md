@@ -8,6 +8,8 @@ permalink: /main_commands
 
 ## Console
 
+Trouvez [ici](/guide/terminal) les détails et les commandes principales du terminal dont vous aurez besoin.
+
 ## Git 
 
 Trouvez [ici](/guide/git_commands) les détails et les commandes principales de git dont vous aurez besoin.
