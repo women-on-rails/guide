@@ -18,6 +18,7 @@ published: true
 
 * [Installation](/guide/installation) de l'environnement de Développement
 * [Cycle 1](/guide/cycle_1) : Introduction à la programmation Web avec Ruby On Rails
+* [Commandes principales](/guide/main_commands) utilisées pour les cycles d'apprentissage
 
 ### Astuces
 * [Récupérer en local un projet Women On Rails](/guide/get_project)
