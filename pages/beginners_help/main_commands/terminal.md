@@ -17,4 +17,4 @@ La console permet d'interagir avec votre machine sans utiliser d'interface graph
 - pwd : Permet de savoir dans quel répertoire on est. Exemple ``` pwd ```
 - rm : Permet de détruire un élément sur la machine. Exemple: ``` rm index.html ``` détruit le fichier ``` index.html ```
 
-# pour aller plus loin
+# Pour aller plus loin
